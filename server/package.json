@@ -1,0 +1,14 @@
+{
+  "name": "stylesense-ai-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-dependency key-hiding proxy that connects the StyleSense AI website to any OpenAI-compatible chat completions endpoint.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}

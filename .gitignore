@@ -1,0 +1,21 @@
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ---- Node (the optional proxy) ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- Secrets: NEVER commit real API keys ----
+.env
+.env.*
+!.env.example
+
+# ---- Local temp / test artifacts ----
+__check.txt
+__smoketest.js
+*.log
