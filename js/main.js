@@ -90,7 +90,7 @@
       filter: "modest",
       title: "Festive Traditional",
       desc: "Embroidered jewel-tone set styled with gold jewellery and a matching dupatta.",
-      img: "https://images.unsplash.com/photo-1583391733956-6c78276477e2?auto=format&fit=crop&w=800&q=80",
+      img: "https://images.unsplash.com/photo-1758985402638-6028bae83b98?auto=format&fit=crop&w=800&q=80",
       ask: "Help me style a traditional festive outfit in jewel tones for a ceremony."
     }
   ];
